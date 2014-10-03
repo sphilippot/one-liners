@@ -1,9 +1,3 @@
 # Debug wrappers
 
-Some knowledge I keep re-discovering.
-
-## Tracing
-
-## Profiling
-
-## etc ?
+Script to patch vmdk3 to vmdk2 for convert in qcow2  
